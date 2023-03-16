@@ -1,5 +1,8 @@
 # impact2earn
 The vision of impact2earn is to create a sustainable world where individuals are rewarded for taking care of the environment and communities benefit from economic opportunities created through sustainable practices.
+We believe that soon more and more teams will use blockchains to achieve sustainable development goals and provide benefits for our Earth.
+Recycling rewards with impact2earn Chat Bot
+The first BANTgo microservice launching in Dubai: impact2earn Web 3.0 TG Chat Bot with built-in Social-Fi and Game-Fi elements. The purpose of the microservice is to reward users (NFT based) by developing the habit of taking care of specials type of waste and providing an easy way to transfer it to recycling. We bridges the gap between recycling plants and B2C owners of valuable materials.
 ## Installation
 To run the application locally, you will need to have Node.js installed on your computer. Then, follow these steps:
 1. Clone the repository to your local machine.
