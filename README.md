@@ -5,12 +5,6 @@ We believe that soon more and more teams will use blockchains to achieve sustain
 Recycling rewards with impact2earn Chat Bot.
 
 The first BANTgo microservice launching in Dubai: impact2earn Web 3.0 TG Chat Bot with built-in Social-Fi and Game-Fi elements. The purpose of the microservice is to reward users (NFT based) by developing the habit of taking care of specials type of waste and providing an easy way to transfer it to recycling. We bridges the gap between recycling plants and B2C owners of valuable materials.
-## Installation
-To run the application locally, you will need to have Node.js installed on your computer. Then, follow these steps:
-1. Clone the repository to your local machine.
-2. Run `npm install` to install the dependencies.
-3. Run `npm start` to start the application.
-4. Open your web browser and navigate to `http://localhost:3000`.
 ## Contributing
 Contributions to this project are welcome. To contribute, follow these steps:
 1. Fork the repository.
