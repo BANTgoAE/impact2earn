@@ -5,6 +5,8 @@ We believe that soon more and more teams will use blockchains to achieve sustain
 Recycling rewards with impact2earn Chat Bot.
 
 The first BANTgo microservice launching in Dubai: impact2earn Web 3.0 TG Chat Bot with built-in Social-Fi and Game-Fi elements. The purpose of the microservice is to reward users (NFT based) by developing the habit of taking care of specials type of waste and providing an easy way to transfer it to recycling. We bridges the gap between recycling plants and B2C owners of valuable materials.
+
+Development impact2earn requires resources to finalize the automation of NFT minting on the TON blockchain. These NFTs are digital certificates that confirm the transfer of recycling and contain official information on the time, location, brand, model of the item in the photo, and the number of carbon credits received during recycling.
 ## Contributing
 Contributions to this project are welcome. To contribute, follow these steps:
 1. Fork the repository.
